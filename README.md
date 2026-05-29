@@ -475,6 +475,14 @@ IoT 개발자과정 AI 활용법
 
     ![alt text](image-26.png)
 
+11. Download Autocomplete model 실행
+12. Nomic Embed model 실행
+13. Connect 버튼 클릭
+
+14. 채팅창 Continue 탭에서 사용
+
+    ![alt text](image-27.png)
+
 ### VS Code 기본 Copilot Chat에 Ollama 붙이기
 
 1. 버전확인
