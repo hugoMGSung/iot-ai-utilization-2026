@@ -471,6 +471,9 @@ IoT 개발자과정 AI 활용법
 
     ![alt text](image-25.png)
 
+10. 설치 확인 - 다음 진행
+
+    ![alt text](image-26.png)
 
 ### VS Code 기본 Copilot Chat에 Ollama 붙이기
 
